@@ -1,0 +1,4 @@
+- Hello World!, I’m TiranexDev
+- I'm not really a programmer but i would like to learn Java, C# and Javascript (js) ...
+- I'm from germany but i talk russian too, and english a little bit.
+- You can contact me on discord: Tiranex#7196
