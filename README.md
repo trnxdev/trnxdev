@@ -1,1 +1,1 @@
-<img src="https://i.ibb.co/vD010Gt/Neues-Projekt-6.png">
+<img src="https://i.ibb.co/GnXw9S9/Neues-Projekt-6.png">
