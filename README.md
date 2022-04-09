@@ -3,5 +3,5 @@
 
 <div style="display:inline-block"> 
   
-![](https://github-readme-stats.vercel.app/api?username=TiranexDev&show_icons=true&theme=radical) <img width="500px" height="125px" src="https://discord.c99.nl/widget/theme-1/596244739125411840.png">
+![](https://github-readme-stats.vercel.app/api?username=TiranexDev&show_icons=true&theme=tokyonight) <img width="500px" height="120px" src="https://discord.c99.nl/widget/theme-4/596244739125411840.png">
 </div>
