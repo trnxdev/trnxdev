@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/tCG9Mjz/Neues-Projekt-6.png">
+<img src="./banner.png">
 
 <table align="center">
   <tr>
