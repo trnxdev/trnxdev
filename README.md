@@ -10,5 +10,5 @@
 <hr></hr>
 
 <div align="center">
-    <img src="https://discord.c99.nl/widget/theme-4/596244739125411840.png" alt="discord"></img>
+    <img src="https://discord.c99.nl/widget/theme-4/572355330143682561.png" alt="discord"></img>
 </div>
