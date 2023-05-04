@@ -2,7 +2,7 @@
 
 <table align="center">
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tira&theme=tokyonight&langs_count=5&layout=compact" alt="wakatime"></img></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tira&theme=tokyonight&langs_count=5&layout=compact&range=all_time" alt="wakatime"></img></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiranexDev&theme=tokyonight&langs_count=2" alt="most_langs"></img></td>
   </tr>
 </table>
