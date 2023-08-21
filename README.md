@@ -1,4 +1,4 @@
-<img src="./banner.png">
+<img src="./banner2.png">
 
 <table align="center">
   <tr>
