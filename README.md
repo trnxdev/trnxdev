@@ -1,11 +1,6 @@
 <img src="./banner2.png">
 
-<table align="center">
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tira&theme=tokyonight&langs_count=6&layout=compact&range=all_time" alt="wakatime"></img></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiranexDev&theme=tokyonight&langs_count=2" alt="most_langs"></img></td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tira&theme=tokyonight&langs_count=6&layout=compact&range=all_time" alt="wakatime" width="62.25%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiranexDev&theme=tokyonight&langs_count=2" alt="most_langs" width="37.75%">
 
 <hr></hr>
 
