@@ -4,6 +4,9 @@
 
 <hr></hr>
 
-<div align="center">
-    <img src="https://discord.c99.nl/widget/theme-4/572355330143682561.png" alt="discord"></img>
-</div>
+<table align="center">
+ <tr>
+    <td valign="top"><h1><a href="https://codeberg.org/tiramify/zenith">Codeberg</a></h1></td>
+    <td valign="top"><img src="https://discord.c99.nl/widget/theme-4/572355330143682561.png" alt="discord"></td>
+  </tr>
+</table>
